@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Trinity\Desktop\School Work\Following the Class on Thursday\Practice from 1-27-22.cs" Link="Practice from 1-27-22.cs" />
+  </ItemGroup>
+
+</Project>
